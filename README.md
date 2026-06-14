@@ -38,3 +38,4 @@ After
 Processing speed of 4K image with 2x amd epyc 7742, 256GB of ram and 5060ti (16GB) is between 2-3 seconds per frame
 
 # Other thing
+If there are any coders who want a challenge, try to get the old paddle ocr code working.
