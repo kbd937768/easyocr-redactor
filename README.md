@@ -3,7 +3,7 @@ Redacts keywords from images
 
 HOW TO USE  
 1.  
-Download checker_v2_gpu_easyocr.py  
+Download checker_v3_gpu_easyocr.py  
 
 2.  
 Download and install python (3.11 or higher), install torch and torchvision, example for 5060ti:  
@@ -19,11 +19,11 @@ and lastly easyocr:
          - pic_0001.png  
          - pic_0002.png  
          - ...  
-      - checker_v2_gpu_easyocr.py  
+      - checker_v3_gpu_easyocr.py  
 
 4.  
 To run code:
->python checker_v2_gpu_easyocr.py  
+>python checker_v3_gpu_easyocr.py  
 
 Output should look like this:  
 >20755/21625 | frame_020755.png | Total: 2.33s | Read: 0.19s | OCR: 1.02s | Redact: 0.01s | Save: 1.09s | Redacted: 3 | FPS: 0.34 | Elapsed: 17h 7m 44s | ETA: 43m 4s  
