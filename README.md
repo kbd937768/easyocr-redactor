@@ -35,7 +35,7 @@ Before
 After   
 <img width="3840" height="2160" alt="frame_gaia2_slp_000028" src="https://github.com/user-attachments/assets/8e527131-30c8-4090-8c03-022944706c5e" />
 
-Processing speed of 4K image with 2x amd epyc 7742, 256GB of ram and 5060ti (16GB) is between 2-3 seconds per frame
+Processing speed of 4K image with 2x amd epyc 7742, 256GB of ram and 5060ti (16GB) is between 2-3 seconds per frame    
 Processing speed of 4K image with 5 1600x, 16GB of ram and 1660ti is between 1.5-2 seconds per frame
 
 
